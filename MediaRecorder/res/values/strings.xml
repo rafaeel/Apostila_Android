@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MediaRecorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Recording Audio!</string>
+    <string name="titile_activity_main">MainActivity</string>
+    <string name="gravar_button_label">Gravar</string>
+    <string name="reproduzir_button_label">Reproduzir</string>
+
+</resources>
